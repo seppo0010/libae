@@ -30,6 +30,8 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <time.h>
+
 #ifndef __AE_H__
 #define __AE_H__
 
